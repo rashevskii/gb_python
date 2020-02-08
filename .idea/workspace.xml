@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b77f06b5-fcd2-478a-bc25-1fc95a68353c" name="Default Changelist" comment="" />
+    <list default="true" id="b77f06b5-fcd2-478a-bc25-1fc95a68353c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Rashevskii_Stepan_2/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rashevskii_Stepan_2/task_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rashevskii_Stepan_2/task_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rashevskii_Stepan_2/task_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rashevskii_Stepan_2/task_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rashevskii_Stepan_2/task_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rashevskii_Stepan_2/task_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,18 +23,26 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XODGmm857OAo06c9i0uddNurDZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Rashevskii_Stepan_1/ex.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Python.task_5">
-    <configuration name="task_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.task_5 (1)">
+    <configuration name="task_2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lesson_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -33,11 +50,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Rashevskii_Stepan_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Rashevskii_Stepan_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rashevskii_Stepan_1/task_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rashevskii_Stepan_2/task_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -46,7 +63,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task_3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lesson_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,11 +71,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Rashevskii_Stepan_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Rashevskii_Stepan_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rashevskii_Stepan_1/task_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rashevskii_Stepan_2/task_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task_4 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lesson_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,11 +92,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Rashevskii_Stepan_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Rashevskii_Stepan_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rashevskii_Stepan_1/task_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rashevskii_Stepan_2/task_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task_5 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lesson_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,11 +113,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Rashevskii_Stepan_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Rashevskii_Stepan_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rashevskii_Stepan_1/task_4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rashevskii_Stepan_2/task_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lesson_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,11 +134,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Rashevskii_Stepan_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Rashevskii_Stepan_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rashevskii_Stepan_1/task_5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rashevskii_Stepan_2/task_6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.task_5" />
-        <item itemvalue="Python.task_4" />
-        <item itemvalue="Python.task_3" />
-        <item itemvalue="Python.task_2" />
-        <item itemvalue="Python.task_1" />
+        <item itemvalue="Python.task_5 (1)" />
+        <item itemvalue="Python.task_6" />
+        <item itemvalue="Python.task_4 (1)" />
+        <item itemvalue="Python.task_3 (1)" />
+        <item itemvalue="Python.task_2 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -153,30 +170,41 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="566" y="125" width="777" height="818" key="CommitChangelistDialog2" timestamp="1581175572890">
+      <screen x="0" y="27" width="1920" height="1007" />
+    </state>
+    <state x="566" y="125" width="777" height="818" key="CommitChangelistDialog2/0.27.1920.1007/1920.0.1440.900@0.27.1920.1007" timestamp="1581175572890" />
     <state x="743" y="288" width="424" height="491" key="FileChooserDialogImpl" timestamp="1580989110303">
       <screen x="0" y="27" width="1920" height="1007" />
     </state>
     <state x="743" y="288" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1007/1920.0.1440.900@0.27.1920.1007" timestamp="1580989110303" />
-    <state width="1897" height="260" key="GridCell.Tab.0.bottom" timestamp="1580989181590">
+    <state width="1897" height="313" key="GridCell.Tab.0.bottom" timestamp="1581175684620">
       <screen x="0" y="27" width="1920" height="1007" />
     </state>
-    <state width="1897" height="260" key="GridCell.Tab.0.bottom/0.27.1920.1007/1920.0.1440.900@0.27.1920.1007" timestamp="1580989181590" />
-    <state width="1897" height="260" key="GridCell.Tab.0.center" timestamp="1580989181590">
+    <state width="1897" height="313" key="GridCell.Tab.0.bottom/0.27.1920.1007/1920.0.1440.900@0.27.1920.1007" timestamp="1581175684620" />
+    <state width="1897" height="313" key="GridCell.Tab.0.center" timestamp="1581175684620">
       <screen x="0" y="27" width="1920" height="1007" />
     </state>
-    <state width="1897" height="260" key="GridCell.Tab.0.center/0.27.1920.1007/1920.0.1440.900@0.27.1920.1007" timestamp="1580989181590" />
-    <state width="1897" height="260" key="GridCell.Tab.0.left" timestamp="1580989181590">
+    <state width="1897" height="313" key="GridCell.Tab.0.center/0.27.1920.1007/1920.0.1440.900@0.27.1920.1007" timestamp="1581175684620" />
+    <state width="1897" height="313" key="GridCell.Tab.0.left" timestamp="1581175684620">
       <screen x="0" y="27" width="1920" height="1007" />
     </state>
-    <state width="1897" height="260" key="GridCell.Tab.0.left/0.27.1920.1007/1920.0.1440.900@0.27.1920.1007" timestamp="1580989181590" />
-    <state width="1897" height="260" key="GridCell.Tab.0.right" timestamp="1580989181590">
+    <state width="1897" height="313" key="GridCell.Tab.0.left/0.27.1920.1007/1920.0.1440.900@0.27.1920.1007" timestamp="1581175684620" />
+    <state width="1897" height="313" key="GridCell.Tab.0.right" timestamp="1581175684620">
       <screen x="0" y="27" width="1920" height="1007" />
     </state>
-    <state width="1897" height="260" key="GridCell.Tab.0.right/0.27.1920.1007/1920.0.1440.900@0.27.1920.1007" timestamp="1580989181590" />
-    <state x="616" y="358" key="com.intellij.ide.util.TipDialog" timestamp="1580910716777">
+    <state width="1897" height="313" key="GridCell.Tab.0.right/0.27.1920.1007/1920.0.1440.900@0.27.1920.1007" timestamp="1581175684620" />
+    <state x="449" y="165" width="1022" height="737" key="SettingsEditor" timestamp="1581155968599">
       <screen x="0" y="27" width="1920" height="1007" />
     </state>
-    <state x="616" y="358" key="com.intellij.ide.util.TipDialog/0.27.1920.1007/1920.0.1440.900@0.27.1920.1007" timestamp="1580910716777" />
+    <state x="449" y="165" width="1022" height="737" key="SettingsEditor/0.27.1920.1007/1920.0.1440.900@0.27.1920.1007" timestamp="1581155968599" />
+    <state x="616" y="358" key="com.intellij.ide.util.TipDialog" timestamp="1581001077424">
+      <screen x="0" y="27" width="1920" height="1007" />
+    </state>
+    <state x="616" y="358" key="com.intellij.ide.util.TipDialog/0.27.1920.1007/1920.0.1440.900@0.27.1920.1007" timestamp="1581001077424" />
   </component>
 </project>

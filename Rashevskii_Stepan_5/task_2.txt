@@ -1,0 +1,3 @@
+Hello, my name is Stepan.
+I am from Samara.
+I learn Python.
